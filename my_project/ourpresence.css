@@ -1,0 +1,14 @@
+.showmap{
+  width: 100%;
+  height: 1000px;
+  background-color: white;
+}
+
+h1
+{
+  text-align: center;
+  padding: 30px;
+  font: inherit;
+  font-size: 30px;
+  color: #3277a8
+}
